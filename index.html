@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Vault Security System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="vault-container">
+            <div class="code-input-section">
+                <h1 class="title">4-DIGIT PUZZLE</h1>
+                <div class="otp-container">
+                    <input type="text" class="otp-input" maxlength="1" data-index="0" autocomplete="off">
+                    <input type="text" class="otp-input" maxlength="1" data-index="1" autocomplete="off">
+                    <input type="text" class="otp-input" maxlength="1" data-index="2" autocomplete="off">
+                    <input type="text" class="otp-input" maxlength="1" data-index="3" autocomplete="off">
+                </div>
+            </div>
+
+            <div class="validation-progress">
+                <div class="progress-label">VALIDATION PROGRESS</div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progress-bar-fill"></div>
+                </div>
+                <div class="progress-percentage" id="progress-percentage">0%</div>
+                
+                <div class="rules-list">
+                    <div class="rule-item" id="rule1">
+                        <span class="material-icons rule-status">radio_button_unchecked</span>
+                        <span class="rule-text">Sum of digits must be prime</span>
+                    </div>
+                    <div class="rule-item" id="rule2">
+                        <span class="material-icons rule-status">radio_button_unchecked</span>
+                        <span class="rule-text">(First × Last) mod 7 = 3</span>
+                    </div>
+                    <div class="rule-item" id="rule3">
+                        <span class="material-icons rule-status">radio_button_unchecked</span>
+                        <span class="rule-text">All digits must be unique</span>
+                    </div>
+                    <div class="rule-item" id="rule4">
+                        <span class="material-icons rule-status">radio_button_unchecked</span>
+                        <span class="rule-text">(D1 > D2 AND D3 is even) OR (Sum prime AND D4 < 5)</span>
+                    </div>
+                    <div class="rule-item" id="rule5">
+                        <span class="material-icons rule-status">radio_button_unchecked</span>
+                        <span class="rule-text">Digits in allowed set {1,2,3,4,5,6,7,8}</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="result-section" id="result-section">
+                <div class="result-message" id="result-message"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
