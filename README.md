@@ -557,7 +557,6 @@ Through the development and analysis of this puzzle, we have gained deeper appre
    - Chapter 7: Functions
 
 5. **Web Resources:**
-   - MDN Web Docs. (2024). JavaScript Documentation. Retrieved from https://developer.mozilla.org/
    - Material Design Icons. Google Fonts. Retrieved from https://fonts.google.com/icons
    - Prime Number Theorem. Wolfram MathWorld. Retrieved from https://mathworld.wolfram.com/
 
