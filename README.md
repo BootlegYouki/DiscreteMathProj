@@ -538,31 +538,45 @@ Through the development and analysis of this puzzle, we have gained deeper appre
 
 ## 12. REFERENCES
 
-1. **Rosen, K. H.** (2019). *Discrete Mathematics and Its Applications* (8th ed.). McGraw-Hill Education.
-   - Chapter 2: Number Theory and Cryptography
-   - Chapter 4: Number Theory and Cryptography
-   - Chapter 6: Counting
+### Number Theory and Prime Numbers
 
-2. **Epp, S. S.** (2020). *Discrete Mathematics with Applications* (5th ed.). Cengage Learning.
-   - Section 4.3: Elementary Number Theory and Methods of Proof
-   - Section 9.1: Set Theory
+1. **Khan Academy.** (n.d.). *Prime Numbers*. Retrieved November 27, 2025, from https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-prime-numbers/v/prime-numbers
 
-3. **Johnsonbaugh, R.** (2017). *Discrete Mathematics* (8th ed.). Pearson.
-   - Chapter 3: Algorithms
-   - Chapter 5: Number Theory
-   - Chapter 8: Propositional Logic
+2. **Weisstein, E. W.** (n.d.). *Prime Number Theorem*. Wolfram MathWorld. Retrieved November 27, 2025, from http://mathworld.wolfram.com/PrimeNumberTheorem.html
 
-4. **Grimaldi, R. P.** (2003). *Discrete and Combinatorial Mathematics: An Applied Introduction* (5th ed.). Pearson.
-   - Chapter 2: Fundamentals of Logic
-   - Chapter 7: Functions
+### Modular Arithmetic
 
-5. **Web Resources:**
-   - Material Design Icons. Google Fonts. Retrieved from https://fonts.google.com/icons
-   - Prime Number Theorem. Wolfram MathWorld. Retrieved from https://mathworld.wolfram.com/
+3. **Brilliant.org.** (n.d.). *Modular Arithmetic*. Retrieved November 27, 2025, from https://brilliant.org/wiki/modular-arithmetic/
 
-6. **Security Concepts:**
-   - Stallings, W. (2017). *Cryptography and Network Security: Principles and Practice* (7th ed.). Pearson.
-   - Chapter 4: Finite Fields and Number Theory
+4. **Khan Academy.** (n.d.). *Modular Arithmetic*. Retrieved November 27, 2025, from https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic
+
+### Set Theory and Logic
+
+5. **MIT OpenCourseWare.** (n.d.). *Mathematics for Computer Science (6.042J)*. Retrieved November 27, 2025, from https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+
+6. **Tutorials Point.** (n.d.). *Discrete Mathematics - Sets*. Retrieved November 27, 2025, from https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_sets.htm
+
+7. **Tutorials Point.** (n.d.). *Discrete Mathematics - Propositional Logic*. Retrieved November 27, 2025, from https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_propositional_logic.htm
+
+### Counting Principles, Permutations, and Combinations
+
+8. **GeeksforGeeks.** (n.d.). *Permutation and Combination*. Retrieved November 27, 2025, from https://www.geeksforgeeks.org/permutation-and-combination/
+
+9. **Khan Academy.** (n.d.). *Counting Principle and Factorial*. Retrieved November 27, 2025, from https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements
+
+### Cryptography and Security
+
+10. **Brilliant.org.** (n.d.). *RSA Encryption*. Retrieved November 27, 2025, from https://brilliant.org/wiki/rsa-encryption/
+
+11. **GeeksforGeeks.** (n.d.). *Introduction to Cryptography*. Retrieved November 27, 2025, from https://www.geeksforgeeks.org/cryptography-introduction/
+
+### Web Development Resources
+
+12. **Mozilla Contributors.** (2024). *JavaScript*. MDN Web Docs. Retrieved November 27, 2025, from https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+13. **Google.** (n.d.). *Material Icons*. Google Fonts. Retrieved November 27, 2025, from https://fonts.google.com/icons
+
+14. **Google.** (n.d.). *Poppins Font*. Google Fonts. Retrieved November 27, 2025, from https://fonts.google.com/specimen/Poppins
 
 ---
 
