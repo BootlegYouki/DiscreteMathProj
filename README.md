@@ -688,9 +688,6 @@ This represents 10/64 = 15.625% of all possible (d₁, d₄) pairs.
 **Live Demo:** https://discrete-math-proj.vercel.app/  
 **Local Demo:** Open `index.html` in any modern web browser
 
-**Group 5 Members:**  
-[List team member names here]
+**Group 5 Developer:**  
+Mark Darren O. Oandasan
 
-**Submitted:** November 27, 2025  
-**Course:** Discrete Mathematics  
-**Institution:** [Your institution name]
