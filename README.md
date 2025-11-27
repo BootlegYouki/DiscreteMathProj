@@ -570,14 +570,6 @@ Through the development and analysis of this puzzle, we have gained deeper appre
 
 11. **GeeksforGeeks.** (n.d.). *Introduction to Cryptography*. Retrieved November 27, 2025, from https://www.geeksforgeeks.org/cryptography-introduction/
 
-### Web Development Resources
-
-12. **Mozilla Contributors.** (2024). *JavaScript*. MDN Web Docs. Retrieved November 27, 2025, from https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-13. **Google.** (n.d.). *Material Icons*. Google Fonts. Retrieved November 27, 2025, from https://fonts.google.com/icons
-
-14. **Google.** (n.d.). *Poppins Font*. Google Fonts. Retrieved November 27, 2025, from https://fonts.google.com/specimen/Poppins
-
 ---
 
 ## APPENDIX A: COMPLETE SOURCE CODE
